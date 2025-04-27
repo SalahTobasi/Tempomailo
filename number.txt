@@ -1,5 +1,5 @@
 {
-"url": "aHR0cHM6Ly90bWFpbC5pZm9sbG93ZXIuc2hvcA==",
-"key": "VGpCOERabDFvcHJGa1FjZjlFNXU=",
-"dev": "YMG-Developers"
+"url": "aHR0cHM6Ly90ZW1wb21haWxvLmNvbQ==",
+"key": "TnlIWW9oVG9MbE1nT0tWejJ1VUE=",
+"dev": "CatDough"
 }
